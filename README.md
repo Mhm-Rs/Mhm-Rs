@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-### Hi there 👋
+## Hi there 👋
 
 I'm a junior software engineer who likes to try new techs through projects.
 
