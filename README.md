@@ -2,6 +2,13 @@
 
 ### Hi there 👋
 
+I'm a junior software engineer who likes to try new techs through projects.
+
+> Currently working on : **Movie Review FullStack App** with :
+> - Spring
+> - MongoDB
+> - ReactJS
+
 <!--
 **Mhm-Rs/Mhm-Rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
