@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-## Hi there 👋 |  Solarized Ocean
+## Hi there 👋                                                                |  Solarized Ocean
 :----------------------------------------------------------------------------:|:-------------------------:
 I'm a junior software engineer who likes to try new techs through projects.   | 
                                                                               | 
