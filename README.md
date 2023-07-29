@@ -1,6 +1,14 @@
 ![Header](./github-header-image.png)
 
-## Hi there 👋 ![unnamed](https://github.com/Mhm-Rs/Mhm-Rs/assets/109873637/110b6a07-0ac9-4b74-a447-fcab812a6131)
+
+## Hi there 👋 |  Solarized Ocean
+:----------------------------------------------------------------------------:|:-------------------------:
+I'm a junior software engineer who likes to try new techs through projects.   | 
+                                                                              | 
+> Currently working on : **Movie Review FullStack App** with :                | ![unnamed](https://github.com/Mhm-Rs/Mhm-Rs/assets/109873637/ed45fdb4-8775-4f62-b4a2-e776782e8827)
+> - Spring                                                                    | 
+> - MongoDB                                                                   |
+> - ReactJS                                                                   |
 
 I'm a junior software engineer who likes to try new techs through projects.
 
