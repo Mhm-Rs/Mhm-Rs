@@ -4,10 +4,11 @@
 
 I'm a junior software engineer who likes to try new techs through projects.
 
-> Currently working on : **Movie Review FullStack App** with :
+> Currently working on : **Movie Review FullStack App** with : ![unnamed](https://github.com/Mhm-Rs/Mhm-Rs/assets/109873637/110b6a07-0ac9-4b74-a447-fcab812a6131)
 > - Spring
 > - MongoDB
 > - ReactJS
+
 
 <!--
 **Mhm-Rs/Mhm-Rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
