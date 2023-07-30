@@ -12,8 +12,8 @@ Find me here :
 - [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />](https://www.linkedin.com/in/rais-mohaman/)
 - [<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/#FF0000" />](https://www.youtube.com/@raismohaman6151)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 
 
 <!--
