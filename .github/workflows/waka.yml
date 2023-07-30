@@ -15,9 +15,6 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # meta
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
           # content
           SHOW_TITLE: true
           SECTION_NAME: wakatime
@@ -35,6 +32,3 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: Athul
-          AUTHOR_EMAIL: athul@example.org
-          # you can populate email-id with secretes instead
