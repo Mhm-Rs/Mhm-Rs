@@ -9,8 +9,8 @@ I'm a junior software engineer who likes to try new techs through projects.
 > - ReactJS
 
 Find me here :
-- [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />](https://www.google.com)
-- <img height="32" width="32" src="https://cdn.simpleicons.org/youtube/#FF0000" />
+- [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />](https://www.linkedin.com/in/rais-mohaman/)
+- [<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/#FF0000" />](https://www.youtube.com/@raismohaman6151)
 
 <!--
 **Mhm-Rs/Mhm-Rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
