@@ -29,7 +29,7 @@ I'm Raïs Mohaman, a Junior Full Stack Web Developer. I spend most of my time co
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mhm-rs.mhm-rs&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=green&right_color=red)
 
 <details>
 <summary>
