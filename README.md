@@ -39,6 +39,12 @@ I love learning new things and putting them to practical use, and that's the mai
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+CSS    3 mins          █████████████████▒░░░░░░░   68.75 %
+Java   1 min           ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
