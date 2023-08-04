@@ -27,10 +27,6 @@ I'm Raïs Mohaman, a Junior Full Stack Web Developer. I spend most of my time co
 <br />
 <br />
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=green&right_color=red)
-
 <details>
 <summary>
   More stuff about me
@@ -38,13 +34,15 @@ I'm Raïs Mohaman, a Junior Full Stack Web Developer. I spend most of my time co
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love learning new things and putting them to practical use, and that's the main reason I thrive to complete at least one project every month!
 
 #### Coding Stats
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Mhm-Rs' github stats](https://github-readme-stats.vercel.app/api?username=mhm-rs&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
