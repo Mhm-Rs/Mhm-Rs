@@ -41,11 +41,11 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js            14 hrs 31 mins  ████████████▒░░░░░░░░░░░░   49.35 %
-JavaScript        6 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
-Java              4 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-HTML              1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-CSS               1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Vue.js            13 hrs 31 mins  ████████████░░░░░░░░░░░░░   47.55 %
+Java              8 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.38 %
+JavaScript        5 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+JSON              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+SCSS              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
