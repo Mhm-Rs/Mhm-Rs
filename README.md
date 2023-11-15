@@ -41,7 +41,10 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   2 mins          ████████████████████████▓   98.61 %
+Java         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
