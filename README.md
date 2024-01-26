@@ -41,7 +41,7 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-Java   5 hrs 34 mins   █████████████████████████   100.00 %
+Java   4 hrs 44 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
