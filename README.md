@@ -41,7 +41,11 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-Java   4 hrs 44 mins   █████████████████████████   100.00 %
+Java              4 hrs 38 mins   ███████████████████████░░   91.64 %
+XML               10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+JavaScript        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+HTML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
