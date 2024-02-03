@@ -11,15 +11,13 @@ I'm Raïs Mohaman, a Junior Software Engineer. I spend most of my time coding ou
 
 ### What I currently Do
 
-- 🔭 I’m currently working on : 🚀**Movie Review FullStack App**🚀
-- 🖥️ Most used line of code `git commit -m "Initial Commit"`
+- 🔭 I’m currently working on : 🚀**Mastering Java Web Services and REST API using Spring Boot**🚀
+- 🖥️ Most used line of code `git push origin develop`
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 📫 How to reach me: mohamanrais@gmail.com.
 - ⚡ Fun fact: I play ukulele and go to the gym very often.
 
 #### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
