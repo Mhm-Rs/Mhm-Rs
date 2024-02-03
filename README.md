@@ -2,7 +2,7 @@
 
 <!-- 🚀 Check out my New Portfolio [islemmaboud.com](https://islemmaboud.com) -->
 
-I'm Raïs Mohaman, a Junior Full Stack Web Developer. I spend most of my time coding outstanding projects or learning new technologies.
+I'm Raïs Mohaman, a Junior Software Engineer. I spend most of my time coding outstanding projects or learning new technologies.
 
 📫 Reach me out!
 
