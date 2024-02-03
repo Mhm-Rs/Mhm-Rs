@@ -41,11 +41,11 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-Java              3 hrs 13 mins   █████████████████░░░░░░░░   67.86 %
-XML               25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-Mustache          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-Properties        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Java Properties   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Java              2 hrs 22 mins   █████████████████░░░░░░░░   68.34 %
+Mustache          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+XML               14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Properties        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Java Properties   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
