@@ -39,11 +39,11 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-Cuda              20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.22 %
-Java              17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
-XML               12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
-Java Properties   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Markdown          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+JSON              37 mins         ████████▓░░░░░░░░░░░░░░░░   34.88 %
+Cuda              20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+Java              17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+XML               12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Java Properties   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
 ```
 
 <!--END_SECTION:waka-->
