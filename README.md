@@ -39,9 +39,9 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 13 mins   ██████████████▓░░░░░░░░░░   59.06 %
-Dart     1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.65 %
-C++      23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Python   1 hr 38 mins    █████████████░░░░░░░░░░░░   51.69 %
+Dart     1 hr 9 mins     █████████░░░░░░░░░░░░░░░░   36.18 %
+C++      23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
 ```
 
 <!--END_SECTION:waka-->
