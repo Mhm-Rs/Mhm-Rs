@@ -39,9 +39,8 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 12 mins   █████████████████████░░░░   84.03 %
-SCSS         36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   1 hr 47 mins    ████████████████████████░   95.75 %
+SCSS         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
