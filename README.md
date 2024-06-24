@@ -39,8 +39,7 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 38 mins    ███████████████████▒░░░░░   77.80 %
-SCSS         28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
