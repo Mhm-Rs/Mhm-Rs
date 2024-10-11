@@ -39,11 +39,11 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 29 mins    ███████▓░░░░░░░░░░░░░░░░░   30.39 %
-Markdown     1 hr 24 mins    ███████░░░░░░░░░░░░░░░░░░   28.57 %
-Bash         41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
-YAML         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Docker       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Markdown     1 hr 48 mins    ███████░░░░░░░░░░░░░░░░░░   27.45 %
+Python       1 hr 34 mins    ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+C#           1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
+Bash         42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+YAML         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
 
 <!--END_SECTION:waka-->
