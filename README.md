@@ -39,8 +39,7 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-C#     6 hrs 40 mins   █████████████████████████   99.48 %
-JSON   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+C#   4 hrs 54 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
