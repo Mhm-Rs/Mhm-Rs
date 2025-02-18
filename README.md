@@ -39,9 +39,11 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 mins         ████████████████▒░░░░░░░░   65.54 %
-C#           7 mins          ████████▓░░░░░░░░░░░░░░░░   34.39 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   51 mins         █████████████████████▓░░░   86.48 %
+Git Config   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
