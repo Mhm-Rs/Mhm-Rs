@@ -39,10 +39,10 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   51 mins         █████████████████████▓░░░   86.48 %
-Git Config   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript   1 hr 43 mins    ███████████████████████▒░   92.85 %
+Git Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
