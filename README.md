@@ -39,10 +39,9 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-Python       20 mins         ████████████████████████░   96.64 %
-Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   9 mins          ███████████████████████▒░   93.15 %
+Bash     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
