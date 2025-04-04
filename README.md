@@ -39,7 +39,8 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   34 mins         █████████████████████▒░░░   85.77 %
+JSON    5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
 ```
 
 <!--END_SECTION:waka-->
