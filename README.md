@@ -11,7 +11,7 @@ I'm Raïs Mohaman, a Junior Software Engineer. I spend most of my time coding ou
 
 ### What I currently Do
 
-- 🔭 I’m currently working on : 🚀**Completing AWS Cloud Developing Certification**🚀
+- 🔭 I’m currently working on : 🚀**Application Tracking Extension**🚀
 - 🖥️ Most used line of code `git push origin develop`
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 📫 How to reach me: mohamanrais@gmail.com.
