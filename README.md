@@ -39,10 +39,10 @@ I love learning new things and putting them to practical use, and that's the mai
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         17 mins         █████████████▓░░░░░░░░░░░   55.10 %
-JSON         10 mins         ████████░░░░░░░░░░░░░░░░░   32.34 %
-JavaScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+HTML         17 mins         █████████████████▒░░░░░░░   69.68 %
+JSON         6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
+JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
